@@ -5,9 +5,12 @@ public class MinhaClasse {
 		final String BR = "Brasil";
 		final int ESTADO_DO_BRASIL = 27;
 
-		String meuNome = "Wesley";
+		String primeiroNome = "Wesley";
+		String segundoNome = "Duarte";
 		int anoDeFrabicacao = 2024;
 
 		anoDeFrabicacao = 2018;
+
+		String nomeCompleto = primeiroNome.concat("").concat(segundoNome);
 	}
 }
