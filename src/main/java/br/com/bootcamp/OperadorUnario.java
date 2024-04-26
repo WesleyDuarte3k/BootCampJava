@@ -7,5 +7,6 @@ public class OperadorUnario {
 		numero = - numero;
 		System.out.println(numero);
 		numero = numero * -1;
+		System.out.println(numero);
 	}
 }
