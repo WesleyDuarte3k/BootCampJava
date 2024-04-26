@@ -1,4 +1,4 @@
-package br.com.bootcamp;
+package br.com.bootcamp.operadores;
 
 public class OperadorUnario {
 	public static void main(String[] args) {

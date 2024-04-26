@@ -1,4 +1,4 @@
-package br.com.bootcamp;
+package br.com.bootcamp.operadores;
 
 public class BoletimEstudantil {
 	public static void main(String[] args) {

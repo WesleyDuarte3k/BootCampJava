@@ -1,4 +1,4 @@
-package br.com.bootcamp;
+package br.com.bootcamp.operadores;
 
 import java.util.ArrayList;
 import java.util.List;
